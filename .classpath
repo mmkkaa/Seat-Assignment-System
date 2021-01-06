@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.18.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jre1.8.0_251/lib/javaws.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/material-ui-swing-1.1.1_beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/seaglass-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/syntheticaTunesAluOxide.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/syntheticaAluOxideSimpleDemo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/syntheticaMauveMetallicSimpleDemo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/syntheticaAluOxide.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/syntheticaAluOxide/V2/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/syntheticaAluOxide/V3/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/synthetica_3.3.1_eval/synthetica.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/synthetica_3.3.1_eval/themes/syntheticaDark.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/synthetica_3.3.1_eval/themes/syntheticaPlain.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/synthetica_3.3.1_eval/themes/syntheticaStandard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/mailactivation/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/mailactivation/mail.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
