@@ -12,7 +12,7 @@ import java.sql.Statement;
  * 
  * This class is used to connect to the database.
  * 
- * @author Shivalik
+ * @author Majan
  * 
  */
 public class DatabaseConnection {
